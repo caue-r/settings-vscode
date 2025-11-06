@@ -1,5 +1,5 @@
 {
-  "workbench.colorTheme": "Ayu Dark Bordered",
+  "workbench.colorTheme": "Min Dark",
   "workbench.iconTheme": "symbols",
   "editor.fontFamily": "JetBrains Mono",
   "editor.fontSize": 14,
@@ -11,10 +11,9 @@
   "breadcrumbs.enabled": false,
   "editor.minimap.autohide": true,
   "editor.semanticHighlighting.enabled": false,
-  "workbench.statusBar.visible": true,
-  "workbench.layoutControl.enabled": false,
   "chat.commandCenter.enabled": false,
-  "window.menuBarVisibility": "compact",
+  "workbench.layoutControl.enabled": false,
+  "workbench.navigationControl.enabled": false,
   "window.commandCenter": false,
-  "apc.font.family": "Inter"
+  "workbench.statusBar.visible": false,
   }
