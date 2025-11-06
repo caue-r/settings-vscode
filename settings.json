@@ -1,6 +1,6 @@
 {
-  "workbench.colorTheme": "Catppuccin Mocha",
-  "workbench.iconTheme": "symbols",
+  "workbench.colorTheme": "Catppuccin Macchiato",
+  "workbench.iconTheme": "catppuccin-macchiato",
   "editor.fontFamily": "Source Code Pro",
   "editor.fontSize": 16,
   "editor.lineHeight": 1.6,
@@ -9,7 +9,7 @@
   "workbench.editor.labelFormat": "short",
   "explorer.compactFolders": false,
   "breadcrumbs.enabled": false,
-  "editor.minimap.autohide": true,
+  "editor.minimap.autohide": "mouseover",
   "editor.semanticHighlighting.enabled": false,
   "chat.commandCenter.enabled": false,
   "workbench.layoutControl.enabled": false,
@@ -17,4 +17,5 @@
   "window.commandCenter": false,
   "workbench.statusBar.visible": false,
   "workbench.activityBar.location": "bottom",
+  "window.menuBarVisibility": "compact",
   }
