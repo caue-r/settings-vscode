@@ -19,10 +19,11 @@ Este repositório contém as minhas configurações visuais personalizadas para 
 
 4. **Tema:**
    - Instale o tema **Min Theme** no VSCode:  
-     [Min Theme - Visual Studio Marketplace](https://marketplace.visualstudio.com/items/?itemName=miguelsolorio.min-theme)
+     [Catppuccin for VSCode](https://marketplace.visualstudio.com/items/?itemName=Catppuccin.catppuccin-vsc)
 
 ## Créditos
 
 - **Fontes:**
-  - **JetBrains Mono**: Desenvolvida pela JetBrains, uma fonte monoespaçada projetada para programadores. [Saiba mais](https://www.jetbrains.com/lp/mono/)
-  - **Inter**: Fonte sans-serif projetada para interfaces de usuário e legibilidade em telas. Criada por Rasmus Andersson. [Saiba mais](https://fonts.google.com/specimen/Inter)
+  - [**JetBrains Mono**](https://www.jetbrains.com/lp/mono/)
+  - [**Inter**](https://fonts.google.com/specimen/Inter)
+  - [**Source Code Pro**](https://fonts.google.com/specimen/Source+Code+Pro)
