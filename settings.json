@@ -2,7 +2,7 @@
   "workbench.colorTheme": "Catppuccin Mocha",
   "workbench.iconTheme": "symbols",
   "editor.fontFamily": "Source Code Pro",
-  "editor.fontSize": 14,
+  "editor.fontSize": 16,
   "editor.lineHeight": 1.6,
   "editor.rulers": [120],
   "editor.renderLineHighlight": "gutter",
