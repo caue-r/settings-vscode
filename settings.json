@@ -1,6 +1,6 @@
 {
-  "workbench.colorTheme": "Catppuccin Macchiato",
-  "workbench.iconTheme": "catppuccin-macchiato",
+  "workbench.colorTheme": "Min Dark",
+  "workbench.iconTheme": "symbols",
   "editor.fontFamily": "Source Code Pro",
   "editor.fontSize": 16,
   "editor.lineHeight": 1.6,
@@ -18,4 +18,10 @@
   "workbench.statusBar.visible": false,
   "workbench.activityBar.location": "bottom",
   "window.menuBarVisibility": "compact",
+  "security.workspace.trust.banner": "always",
+  "workbench.startupEditor": "none",
+  "markdown-preview-enhanced.enablePreviewZenMode": false,
+  "markdown-preview-enhanced.previewTheme": "atom-dark.css",
+  "geminicodeassist.project": "ivory-hour-dpvm6",
+  "editor.inlineSuggest.enabled": false,
   }
