@@ -24,4 +24,9 @@
   "markdown-preview-enhanced.previewTheme": "atom-dark.css",
   "geminicodeassist.project": "ivory-hour-dpvm6",
   "editor.inlineSuggest.enabled": false,
+  "diffEditor.codeLens": true,
+  "dotnet.codeLens.enableReferencesCodeLens": false,
+  "[csharp]": {
+  "editor.quickSuggestions": { "other": false, "comments": false, "strings": false }
+  }
   }
