@@ -2,7 +2,7 @@
   "workbench.colorTheme": "Min Dark",
   "workbench.iconTheme": "symbols",
   "editor.fontFamily": "Source Code Pro",
-  "editor.fontSize": 16,
+  "editor.fontSize": 14,
   "editor.lineHeight": 1.6,
   "editor.rulers": [120],
   "editor.renderLineHighlight": "gutter",
@@ -28,5 +28,6 @@
   "dotnet.codeLens.enableReferencesCodeLens": false,
   "[csharp]": {
   "editor.quickSuggestions": { "other": false, "comments": false, "strings": false }
-  }
+  },
+  "workbench.productIconTheme": "fluent-icons"
   }
