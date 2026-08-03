@@ -1,8 +1,6 @@
 {
-  "workbench.colorTheme": "Min Dark",
-  "workbench.iconTheme": "symbols",
   "editor.fontFamily": "Source Code Pro",
-  "editor.fontSize": 18,
+  "editor.fontSize": 16,
   "editor.lineHeight": 1.6,
   "editor.rulers": [120],
   "editor.renderLineHighlight": "gutter",
@@ -18,16 +16,26 @@
   "workbench.statusBar.visible": false,
   "workbench.activityBar.location": "bottom",
   "window.menuBarVisibility": "compact",
-  "security.workspace.trust.banner": "always",
-  "workbench.startupEditor": "none",
-  "markdown-preview-enhanced.enablePreviewZenMode": false,
-  "markdown-preview-enhanced.previewTheme": "atom-dark.css",
+  "chatgpt.runCodexInWindowsSubsystemForLinux": true,
+  "workbench.iconTheme": "symbols",
   "geminicodeassist.project": "ivory-hour-dpvm6",
   "editor.inlineSuggest.enabled": false,
-  "diffEditor.codeLens": true,
-  "dotnet.codeLens.enableReferencesCodeLens": false,
-  "[csharp]": {
-  "editor.quickSuggestions": { "other": false, "comments": false, "strings": false }
-  },
-  "workbench.productIconTheme": "fluent-icons"
-}
+  "editor.tabCompletion": "on",
+  "emmet.useInlineCompletions": true,
+  "workbench.productIconTheme": "fluent-icons",
+  "workbench.colorTheme": "Min Dark",
+  "claudeCode.preferredLocation": "panel",
+  "background.enabled": true,
+  "background.editor": {
+    "useFront": false,
+    "images": [
+      "file:///C:/Users/cauer/Downloads/haerin.png"
+    ],
+    "style": {
+      "background-position": "right bottom",
+      "background-repeat": "no-repeat",
+      "background-size": "20%",
+      "opacity": 0.2
+    }
+  }
+  }
